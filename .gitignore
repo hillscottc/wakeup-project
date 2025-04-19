@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+VENV/
+
+# Spyder project settings
+.spyproject
+
+# Distribution / packaging
+.eggs/
+*.egg
+dist/
+build/
+sdist/
+*.egg-info/
+*.whl
+
+# Django specific
+*.log
+*.pot
+media/
+static/
+local_settings.py
+db.sqlite3
+
+# System files
+.DS_Store
+Thumbs.db
+
+# vscode
+.vscode/
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# OS or Editor folders
+__MACOSX
+.swp
+.swo
